@@ -1,0 +1,23 @@
+{
+  "name": "Gitbook",
+  "version": "1.0.0",
+  "description": "这是一个Gitbook的自动化构建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanggeg/Gitbook.git"
+  },
+  "keywords": [],
+  "author": "shanggeg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanggeg/Gitbook/issues"
+  },
+  "homepage": "https://github.com/shanggeg/Gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
